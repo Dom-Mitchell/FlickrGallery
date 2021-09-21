@@ -62,7 +62,7 @@ A link to the webpage that I made can be found in the **About** section of this 
 https://photo-gallery-dommitchell.netlify.app/
 ```
 
-For the **Flickr** Gallery visit the link below.
+For the **Flickr** Gallery that uses Flickr's `API` for photos visit the link below.
 
 ```html
 https://flickr-gallery-dommitchell.netlify.app/
